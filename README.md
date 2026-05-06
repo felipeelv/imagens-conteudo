@@ -38,20 +38,20 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 | 4º ano EF | Microrganismos | Cap 1 — Fungos e bactérias · Cap 2 — Microrganismos úteis · Cap 3 — Prevenção de doenças |
 | 5º ano EF | Corpo Humano | Cap 1 — Nutrição do organismo · Cap 2 — Circulação e distribuição · Cap 3 — Sistema imunológico · Cap 4 — Reprodução humana |
 | 6º ano EF | Transformações da Matéria | Cap 1 — Transformações físicas e químicas · Cap 2 — Materiais sintéticos · Cap 3 — Impactos ambientais e sustentabilidade |
-| 7º ano EF | Ecossistemas Brasileiros | Cap 1 — Biomas do Brasil |
+| 7º ano EF | Ecossistemas Brasileiros | Cap 1 — Biomas do Brasil · Cap 2 — Adaptações e Biodiversidade |
+| 8º ano EF | Ligações Químicas | Cap 1 — Por que Átomos se Ligam · Cap 2 — Ligação Iônica · Cap 3 — Ligação Covalente · Cap 4 — Ligação Metálica |
 
-**Total Ciências:** 4 anos · 11 capítulos · 11 páginas-resumo.
+**Total Ciências:** 5 anos · 16 capítulos · 16 páginas-resumo.
 
 ## Pendentes próximos
 
-- **Ciências 7º ano U4:** Cap 2 — Adaptações e Biodiversidade (em produção, mesma identidade visual do Cap 1).
-- **Ciências 8º ano U4** e **Ciências 9º ano U4** (próximas unidades a entrar).
+- **Ciências 9º ano U4** (próxima unidade a entrar).
 
 ## Identidade visual por faixa
 
 - **EF1 (4º-5º ano):** mapas mentais Khan/Duolingo com mascote estudante (Português) · resumo visual com ilustrações friendly e linguagem simplificada (Ciências).
 - **EF1 (6º ano):** mapas mentais Khan/Duolingo com mascote (Português) · resumo visual vintage-school com slab-serif e paleta teal/terracota (Ciências).
-- **EF2 (7º-9º ano):** sketchnote sem mascote em fundo branco (Português) · pôster mural ilustrado naturalista premium com paleta sóbria e renders realistas (Ciências, validado em 7º ano U4).
+- **EF2 (7º-9º ano):** sketchnote sem mascote em fundo branco (Português) · pôster mural ilustrado naturalista premium com paleta sóbria e renders realistas (Ciências 7º ano — biomas, espécies brasileiras) ou paleta lab/química com modelos atômicos 3D (Ciências 8º ano — ligações químicas).
 - **EM (1ª-3ª série):** estética Notion/Pinterest premium teen com título 3D extrudado (Português).
 
 ## Convenções
