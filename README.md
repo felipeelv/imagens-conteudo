@@ -59,7 +59,7 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 
 - **EF1 (4º-5º ano):** mapas mentais Khan/Duolingo com mascote estudante (Português) · resumo visual com ilustrações friendly e linguagem simplificada (Ciências).
 - **EF1 (6º ano):** mapas mentais Khan/Duolingo com mascote (Português) · resumo visual vintage-school com slab-serif e paleta teal/terracota (Ciências).
-- **EF2 (7º-9º ano):** sketchnote sem mascote em fundo branco (Português) · pôster mural ilustrado naturalista premium com paleta sóbria e renders realistas (Ciências 7º ano — biomas, espécies brasileiras) ou paleta lab/química com modelos atômicos 3D (Ciências 8º ano — ligações químicas) · infográfico editorial científico premium com banner por tema do capítulo (Biologia 9º ano — navy para Mendel, wine para genética humana, violet para mutações).
+- **EF2 (7º-9º ano):** sketchnote sem mascote em fundo branco (Português) · pôster mural ilustrado naturalista premium com paleta sóbria e renders realistas (Ciências 7º ano — biomas, espécies brasileiras) ou paleta lab/química com modelos atômicos 3D (Ciências 8º ano — ligações químicas) · página Studygram premium com banner arredondado, ilustração temática + 6 cards numerados pasteis (Biologia 9º ano Cap 1 e Cap 3) ou página informativa em 4 blocos densos (Biologia 9º ano Cap 2). Banner por TEMA do capítulo (navy/wine/violet).
 - **EM (1ª-3ª série):** estética Notion/Pinterest premium teen com título 3D extrudado (Português).
 
 ## Convenções
