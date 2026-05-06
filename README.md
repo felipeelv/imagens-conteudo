@@ -8,7 +8,7 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 <Disciplina>/<Ano>/<Unidade>/<Cap-slug>.png
 ```
 
-- **Disciplina:** Português, Ciências (em expansão).
+- **Disciplina:** Português, Ciências, Biologia (em expansão).
 - **Ano:** EF1 (`4ano`, `5ano`, `6ano`), EF2 (`7ano`, `8ano`, `9ano`), EM (`1serie`, `2serie`, `3serie`).
 - **Unidade:** pasta com nome humano (ex: `Unidade-4-Microrganismos`).
 - **Arquivo:** `Cap<N>-<tema-slug>.png` (sem sufixo de versão — só a aprovada).
@@ -43,15 +43,23 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 
 **Total Ciências:** 5 anos · 16 capítulos · 16 páginas-resumo.
 
+### Biologia (Unidade 4)
+
+| Ano | Unidade | Capítulos prontos |
+|---|---|---|
+| 9º ano EF | Genética Aplicada | Cap 1 — Segunda Lei de Mendel · Cap 2 — Heredogramas e Genética Humana · Cap 3 — Mutações |
+
+**Total Biologia:** 1 ano · 3 capítulos · 3 páginas-resumo (geradas com GPT Image 2).
+
 ## Pendentes próximos
 
-- **Ciências 9º ano U4** (próxima unidade a entrar).
+- Próximas unidades de Biologia (1ª–3ª série EM) e demais disciplinas.
 
 ## Identidade visual por faixa
 
 - **EF1 (4º-5º ano):** mapas mentais Khan/Duolingo com mascote estudante (Português) · resumo visual com ilustrações friendly e linguagem simplificada (Ciências).
 - **EF1 (6º ano):** mapas mentais Khan/Duolingo com mascote (Português) · resumo visual vintage-school com slab-serif e paleta teal/terracota (Ciências).
-- **EF2 (7º-9º ano):** sketchnote sem mascote em fundo branco (Português) · pôster mural ilustrado naturalista premium com paleta sóbria e renders realistas (Ciências 7º ano — biomas, espécies brasileiras) ou paleta lab/química com modelos atômicos 3D (Ciências 8º ano — ligações químicas).
+- **EF2 (7º-9º ano):** sketchnote sem mascote em fundo branco (Português) · pôster mural ilustrado naturalista premium com paleta sóbria e renders realistas (Ciências 7º ano — biomas, espécies brasileiras) ou paleta lab/química com modelos atômicos 3D (Ciências 8º ano — ligações químicas) · infográfico editorial científico premium com banner por tema do capítulo (Biologia 9º ano — navy para Mendel, wine para genética humana, violet para mutações).
 - **EM (1ª-3ª série):** estética Notion/Pinterest premium teen com título 3D extrudado (Português).
 
 ## Convenções
