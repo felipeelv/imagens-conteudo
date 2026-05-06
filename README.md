@@ -8,7 +8,7 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 <Disciplina>/<Ano>/<Unidade>/<Cap-slug>.png
 ```
 
-- **Disciplina:** Português, Ciências, Biologia (em expansão).
+- **Disciplina:** Português, Ciências, Biologia, Física (em expansão).
 - **Ano:** EF1 (`4ano`, `5ano`, `6ano`), EF2 (`7ano`, `8ano`, `9ano`), EM (`1serie`, `2serie`, `3serie`).
 - **Unidade:** pasta com nome humano (ex: `Unidade-4-Microrganismos`).
 - **Arquivo:** `Cap<N>-<tema-slug>.png` (sem sufixo de versão — só a aprovada).
@@ -53,9 +53,19 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 
 **Total Biologia:** 3 séries · 10 capítulos · 10 páginas-resumo.
 
+### Física (Unidade 4)
+
+| Ano | Unidade | Capítulos prontos |
+|---|---|---|
+| 6º ano EF | Velocidade | Cap único — Velocidade (v=Δs/Δt + unidades + conversão + média × instantânea) |
+
+**Total Física:** 1 ano · 1 capítulo · 1 página-resumo.
+
 ## Pendentes próximos
 
-- Biologia 3ª série EM e demais disciplinas.
+- Física: outras unidades/anos.
+- Biologia 3ª série EM.
+- Demais disciplinas: Química, Matemática, Geometria, História, Geografia, Sociologia, Filosofia, Educação Cristã, Estatística e Educação Financeira.
 
 ## Identidade visual por faixa
 
