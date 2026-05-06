@@ -58,12 +58,13 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 | Ano | Unidade | Capítulos prontos |
 |---|---|---|
 | 6º ano EF | Velocidade | Cap 1 — Velocidade (visão geral) · Cap 2 — Cálculo da Velocidade Média · Cap 3 — Conversão de Unidades · Cap 4 — Velocidade no Cotidiano |
+| 8º ano EF | Fontes e Sustentabilidade | Cap 1 — Energia e Suas Formas · Cap 2 — Fontes Renováveis · Cap 3 — Fontes Não Renováveis · Cap 4 — Sustentabilidade no Cotidiano |
 
-**Total Física:** 1 ano · 4 capítulos · 4 páginas-resumo.
+**Total Física:** 2 anos · 8 capítulos · 8 páginas-resumo.
 
 ## Pendentes próximos
 
-- Física: outras unidades/anos.
+- Física: 9º ano (Gravitação Universal), 1ª EM (Cinemática Vetorial), 2ª EM (Termodinâmica), 3ª EM (Geradores e Circuitos).
 - Biologia 3ª série EM.
 - Demais disciplinas: Química, Matemática, Geometria, História, Geografia, Sociologia, Filosofia, Educação Cristã, Estatística e Educação Financeira.
 
