@@ -48,12 +48,13 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 | Ano | Unidade | Capítulos prontos |
 |---|---|---|
 | 9º ano EF | Genética Aplicada | Cap 1 — Segunda Lei de Mendel · Cap 2 — Heredogramas e Genética Humana · Cap 3 — Mutações |
+| 1ª série EM | Bioquímica Celular II | Cap 1 — Proteínas: Estrutura e Função · Cap 2 — Enzimas: Catalisadores Biológicos · Cap 3 — Origem da Vida na Terra · Cap 4 — Teorias Históricas sobre Origem da Vida |
 
-**Total Biologia:** 1 ano · 3 capítulos · 3 páginas-resumo (geradas com GPT Image 2).
+**Total Biologia:** 2 séries · 7 capítulos · 7 páginas-resumo.
 
 ## Pendentes próximos
 
-- Próximas unidades de Biologia (1ª–3ª série EM) e demais disciplinas.
+- Biologia 2ª e 3ª série EM e demais disciplinas.
 
 ## Identidade visual por faixa
 
