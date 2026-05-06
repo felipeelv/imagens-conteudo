@@ -57,9 +57,9 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 
 | Ano | Unidade | Capítulos prontos |
 |---|---|---|
-| 6º ano EF | Velocidade | Cap único — Velocidade (v=Δs/Δt + unidades + conversão + média × instantânea) |
+| 6º ano EF | Velocidade | Cap 1 — Velocidade (visão geral) · Cap 2 — Cálculo da Velocidade Média · Cap 3 — Conversão de Unidades · Cap 4 — Velocidade no Cotidiano |
 
-**Total Física:** 1 ano · 1 capítulo · 1 página-resumo.
+**Total Física:** 1 ano · 4 capítulos · 4 páginas-resumo.
 
 ## Pendentes próximos
 
