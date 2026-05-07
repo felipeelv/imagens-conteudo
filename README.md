@@ -60,12 +60,13 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 | 6º ano EF | Velocidade | Cap 1 — Velocidade (visão geral) · Cap 2 — Cálculo da Velocidade Média · Cap 3 — Conversão de Unidades · Cap 4 — Velocidade no Cotidiano |
 | 8º ano EF | Fontes e Sustentabilidade | Cap 1 — Energia e Suas Formas · Cap 2 — Fontes Renováveis · Cap 3 — Fontes Não Renováveis · Cap 4 — Sustentabilidade no Cotidiano |
 | 9º ano EF | Gravitação Universal | Cap 1 — Lei da Gravitação Universal · Cap 2 — Peso e Massa · Cap 3 — Movimento Orbital e Leis de Kepler · Cap 4 — Aplicações da Gravitação |
+| 1ª série EM | Cinemática Vetorial | Cap 1 — Vetores: Conceito e Operações · Cap 2 — Posição e Deslocamento Vetorial · Cap 3 — Velocidade e Aceleração Vetoriais · Cap 4 — Lançamento Oblíquo |
 
-**Total Física:** 3 anos · 12 capítulos · 12 páginas-resumo.
+**Total Física:** 4 anos · 16 capítulos · 16 páginas-resumo.
 
 ## Pendentes próximos
 
-- Física: 1ª EM (Cinemática Vetorial), 2ª EM (Termodinâmica), 3ª EM (Geradores e Circuitos).
+- Física: 2ª EM (Termodinâmica), 3ª EM (Geradores e Circuitos).
 - Biologia 3ª série EM.
 - Demais disciplinas: Química, Matemática, Geometria, História, Geografia, Sociologia, Filosofia, Educação Cristã, Estatística e Educação Financeira.
 
