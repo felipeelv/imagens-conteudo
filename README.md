@@ -65,11 +65,20 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 
 **Total Física:** 5 anos · 20 capítulos · 20 páginas-resumo.
 
+### Química (Unidade 4)
+
+| Ano | Unidade | Capítulos prontos |
+|---|---|---|
+| 9º ano EF | Velocidade e Combustão | Cap 1 — Velocidade das Reações · Cap 2 — Reações de Combustão |
+
+**Total Química:** 1 ano · 2 capítulos · 2 páginas-resumo.
+
 ## Pendentes próximos
 
 - Física: 3ª EM (Geradores e Circuitos).
+- Química: 1ª/2ª/3ª EM.
 - Biologia 3ª série EM.
-- Demais disciplinas: Química, Matemática, Geometria, História, Geografia, Sociologia, Filosofia, Educação Cristã, Estatística e Educação Financeira.
+- Demais disciplinas: Matemática, Geometria, História, Geografia, Sociologia, Filosofia, Educação Cristã, Estatística e Educação Financeira.
 
 ## Identidade visual por faixa
 
