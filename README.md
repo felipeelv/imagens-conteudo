@@ -70,8 +70,9 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 | Ano | Unidade | Capítulos prontos |
 |---|---|---|
 | 9º ano EF | Velocidade e Combustão | Cap 1 — Velocidade das Reações · Cap 2 — Reações de Combustão |
+| 1ª série EM | Grandezas Químicas Fundamentais | Cap 1 — Massa Atômica e Molecular · Cap 2 — Quantidade de Matéria (Mol) |
 
-**Total Química:** 1 ano · 2 capítulos · 2 páginas-resumo.
+**Total Química:** 2 anos · 4 capítulos · 4 páginas-resumo.
 
 ## Pendentes próximos
 
