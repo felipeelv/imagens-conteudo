@@ -61,12 +61,13 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 | 8º ano EF | Fontes e Sustentabilidade | Cap 1 — Energia e Suas Formas · Cap 2 — Fontes Renováveis · Cap 3 — Fontes Não Renováveis · Cap 4 — Sustentabilidade no Cotidiano |
 | 9º ano EF | Gravitação Universal | Cap 1 — Lei da Gravitação Universal · Cap 2 — Peso e Massa · Cap 3 — Movimento Orbital e Leis de Kepler · Cap 4 — Aplicações da Gravitação |
 | 1ª série EM | Cinemática Vetorial | Cap 1 — Vetores: Conceito e Operações · Cap 2 — Posição e Deslocamento Vetorial · Cap 3 — Velocidade e Aceleração Vetoriais · Cap 4 — Lançamento Oblíquo |
+| 2ª série EM | Termodinâmica | Cap 1 — Calor e Temperatura · Cap 2 — Leis da Termodinâmica · Cap 3 — Gases Ideais e Transformações · Cap 4 — Máquinas Térmicas e Ciclo de Carnot |
 
-**Total Física:** 4 anos · 16 capítulos · 16 páginas-resumo.
+**Total Física:** 5 anos · 20 capítulos · 20 páginas-resumo.
 
 ## Pendentes próximos
 
-- Física: 2ª EM (Termodinâmica), 3ª EM (Geradores e Circuitos).
+- Física: 3ª EM (Geradores e Circuitos).
 - Biologia 3ª série EM.
 - Demais disciplinas: Química, Matemática, Geometria, História, Geografia, Sociologia, Filosofia, Educação Cristã, Estatística e Educação Financeira.
 
