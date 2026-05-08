@@ -82,15 +82,16 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 | 6º ano EF | Triângulos e Sistema de Medidas II | Cap 1 — Elementos dos Triângulos · Cap 2 — Classificação dos Triângulos · Cap 3 — Propriedades dos Triângulos · Cap 4 — Medidas de Capacidade · Cap 5 — Medidas de Tempo |
 | 7º ano EF | Quadriláteros e Polígonos Regulares | Cap 1 — Classificação de Quadriláteros · Cap 2 — Propriedades dos Quadriláteros · Cap 3 — Ângulos Internos de Polígonos Regulares · Cap 4 — Construção de Polígonos Regulares |
 | 8º ano EF | Polígonos e Construção de Polígonos Regulares | Cap 1 — Polígonos: Ângulos · Cap 2 — Polígonos Regulares · Cap 3 — Construção de Polígonos Regulares |
+| 9º ano EF | Polígonos e Construções Geométricas | Cap 1 — Polígonos Regulares · Cap 2 — Construção de Polígonos Regulares · Cap 3 — Algoritmos de Construção · Cap 4 — Geometria Analítica Básica |
 
-**Total Geometria:** 3 anos · 12 capítulos · 12 páginas-resumo.
+**Total Geometria:** 4 anos · 16 capítulos · 16 páginas-resumo.
 
 ## Pendentes próximos
 
 - Física: 3ª EM (Geradores e Circuitos).
 - Química: 3ª EM (Funções Nitrogenadas e Mistas).
 - Biologia 3ª série EM.
-- Geometria: 9º ano EF + 1ª-3ª série EM.
+- Geometria: 1ª-3ª série EM.
 - Demais disciplinas: Matemática, História, Geografia, Sociologia, Filosofia, Educação Cristã, Estatística e Educação Financeira.
 
 ## Identidade visual por faixa
