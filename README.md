@@ -8,7 +8,7 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 <Disciplina>/<Ano>/<Unidade>/<Cap-slug>.png
 ```
 
-- **Disciplina:** Português, Ciências, Biologia, Física (em expansão).
+- **Disciplina:** Português, Ciências, Biologia, Física, Química, Geometria (em expansão).
 - **Ano:** EF1 (`4ano`, `5ano`, `6ano`), EF2 (`7ano`, `8ano`, `9ano`), EM (`1serie`, `2serie`, `3serie`).
 - **Unidade:** pasta com nome humano (ex: `Unidade-4-Microrganismos`).
 - **Arquivo:** `Cap<N>-<tema-slug>.png` (sem sufixo de versão — só a aprovada).
@@ -75,12 +75,21 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 
 **Total Química:** 3 anos · 8 capítulos · 8 páginas-resumo.
 
+### Geometria (Unidade 4)
+
+| Ano | Unidade | Capítulos prontos |
+|---|---|---|
+| 6º ano EF | Triângulos e Sistema de Medidas II | Cap 1 — Elementos dos Triângulos · Cap 2 — Classificação dos Triângulos · Cap 3 — Propriedades dos Triângulos · Cap 4 — Medidas de Capacidade · Cap 5 — Medidas de Tempo |
+
+**Total Geometria:** 1 ano · 5 capítulos · 5 páginas-resumo.
+
 ## Pendentes próximos
 
 - Física: 3ª EM (Geradores e Circuitos).
-- Química: 1ª/2ª/3ª EM.
+- Química: 3ª EM (Funções Nitrogenadas e Mistas).
 - Biologia 3ª série EM.
-- Demais disciplinas: Matemática, Geometria, História, Geografia, Sociologia, Filosofia, Educação Cristã, Estatística e Educação Financeira.
+- Geometria: 7º-9º ano EF + 1ª-3ª série EM.
+- Demais disciplinas: Matemática, História, Geografia, Sociologia, Filosofia, Educação Cristã, Estatística e Educação Financeira.
 
 ## Identidade visual por faixa
 
