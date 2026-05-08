@@ -83,15 +83,16 @@ Repositório de imagens pedagógicas finalizadas (mapas mentais, infográficos, 
 | 7º ano EF | Quadriláteros e Polígonos Regulares | Cap 1 — Classificação de Quadriláteros · Cap 2 — Propriedades dos Quadriláteros · Cap 3 — Ângulos Internos de Polígonos Regulares · Cap 4 — Construção de Polígonos Regulares |
 | 8º ano EF | Polígonos e Construção de Polígonos Regulares | Cap 1 — Polígonos: Ângulos · Cap 2 — Polígonos Regulares · Cap 3 — Construção de Polígonos Regulares |
 | 9º ano EF | Polígonos e Construções Geométricas | Cap 1 — Polígonos Regulares · Cap 2 — Construção de Polígonos Regulares · Cap 3 — Algoritmos de Construção · Cap 4 — Geometria Analítica Básica |
+| 1ª série EM | Quadriláteros | Cap 1 — Classificação e Propriedades Gerais · Cap 2 — Paralelogramos e Trapézios |
 
-**Total Geometria:** 4 anos · 16 capítulos · 16 páginas-resumo.
+**Total Geometria:** 5 anos/séries · 18 capítulos · 18 páginas-resumo.
 
 ## Pendentes próximos
 
 - Física: 3ª EM (Geradores e Circuitos).
 - Química: 3ª EM (Funções Nitrogenadas e Mistas).
 - Biologia 3ª série EM.
-- Geometria: 1ª-3ª série EM.
+- Geometria: 2ª-3ª série EM.
 - Demais disciplinas: Matemática, História, Geografia, Sociologia, Filosofia, Educação Cristã, Estatística e Educação Financeira.
 
 ## Identidade visual por faixa
